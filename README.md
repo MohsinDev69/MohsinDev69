@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohsin+Ali+%F0%9F%91%8B;Frontend+Developer+%7C+React+%26+TypeScript;I+build+fast%2C+accessible+and+beautiful+UIs" alt="Typing SVG" />
 
 **Frontend Developer · UI/UX · Python Automation** &nbsp;|&nbsp; Rawalpindi, Pakistan 🇵🇰
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohsin--ali.dev-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mohsin-ali.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mohsin-alidev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-ali-461873440)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinali.hsn69@gmail.com)
 
@@ -56,11 +56,11 @@ Frontend Developer with **2+ years** of hands-on experience building fast, acces
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **[Personal Portfolio](https://mohsin-ali.dev/)** | Fast, animated portfolio with scroll reveals, dark/light theme, SEO metadata, JSON-LD and a validated WhatsApp/email contact form. | Next.js · React · TypeScript · MUI · Tailwind · Framer Motion |
+| **[Personal Portfolio](https://mohsin-alidev.vercel.app/)** | Fast, animated portfolio with scroll reveals, dark/light theme, SEO metadata, JSON-LD and a validated WhatsApp/email contact form. | Next.js · React · TypeScript · MUI · Tailwind · Framer Motion |
 | **Dreams Builders** | Responsive website for a construction and real-estate company with clean layout and easy navigation. | HTML · CSS · JavaScript |
 | **Food Restaurant** | Responsive restaurant website with a menu showcase and warm, appetizing design. | HTML · CSS · JavaScript |
 
-More projects on my [portfolio](https://mohsin-ali.dev/).
+More projects on my [portfolio](https://mohsin-alidev.vercel.app/).
 
 ## 📊 GitHub Stats
 
